@@ -24,4 +24,4 @@ DependOnService  = "FSFilter Infrastructure"
 %DriverName%.sys
  
 [Strings]
-DriverName     = "aaupd"
+DriverName     = "dal"
